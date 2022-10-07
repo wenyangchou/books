@@ -14,6 +14,15 @@ The repository is used to share some books have been shared online
 
 [文件链接](./docs/1665144738702深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）周志明.pdf) [原文下载链接](https://zhuanlan.zhihu.com/p/393148976)
 
+- [Shell从入门到精通（阿良）.pdf](./docs/Shell从入门到精通（阿良）.pdf)
+- C++Primer中文版（第 5 版）.pdf
+
+链接: https://pan.baidu.com/s/1kmFsu_TpdpQYUsv2EHHkGw 提取码: jm95
+
+- Kafka权威指南.pdf
+
+链接: https://pan.baidu.com/s/1ce4N7lYyuatXo5f_q6eWyQ 提取码: 07f0
+
 ## axure分享
 
 ### axure元件
