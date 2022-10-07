@@ -76,7 +76,6 @@ The repository is used to share some books have been shared online
 - [web端元件库.rplib](./axures/web端元件库.rplib)
 - [APP图标库.rplib](./axures/APP图标库.rplib)
 - [元素库+-+icons_64x64+for+Axure.rplib](./axures/元素库+-+icons_64x64+for+Axure.rplib)
-- [AxureUX手机移动端交互原型通用元件库 v2.0(元件库版).rplib](./axures/AxureUX手机移动端交互原型通用元件库 v2.0(元件库版).rplib)
 - [IaxureSVG矢量图标元件库V1.21版.rplib](./axures/IaxureSVG矢量图标元件库V1.21版.rplib)
 - [axhubcharts.rplib](./axures/axhubcharts.rplib)
 - [手机模板..rplib](./axures/手机模板..rplib)
